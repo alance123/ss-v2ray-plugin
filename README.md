@@ -3,6 +3,7 @@
 > 1. 部署后，应`open app` ，显示`HTTP ERROR 404`，表示部署成功。
 
 > 2. Android 安装 [Shadowsocks](https://github.com/shadowsocks/shadowsocks-android) 和 [v2ray-plugin-android](https://github.com/shadowsocks/v2ray-plugin-android)。
+shadowsocks配置时，远程端口选择443
 
 ![](https://raw.githubusercontent.com/xiaokaixuan/ss-v2ray-plugin/master/android.png)
 
